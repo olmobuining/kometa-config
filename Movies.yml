@@ -1,2 +1,4 @@
 - default: basic
 - default: imdb
+- default: actor
+- default: genre
