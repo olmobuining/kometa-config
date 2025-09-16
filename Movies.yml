@@ -2,3 +2,4 @@
 - default: imdb
 - default: actor
 - default: genre
+- default: popular
